@@ -24,6 +24,12 @@ from inmuebles.forms import LoginForm
 
 urlpatterns = [
 
+    path("", auth_views.LoginView.as_view(
+        template_name="registration/login.html",
+        authentication_form=LoginForm,
+        next_page="perfil"
+    ), name="inicio"),
+
     path('admin/', admin.site.urls),
 
     path(
