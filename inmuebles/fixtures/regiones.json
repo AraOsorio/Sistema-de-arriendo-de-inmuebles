@@ -1,0 +1,114 @@
+[
+    {
+        "model": "inmuebles.region",
+        "pk": 1,
+        "fields": {
+            "nombre": "Región de Arica y Parinacota"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 2,
+        "fields": {
+            "nombre": "Región de Tarapacá"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 3,
+        "fields": {
+            "nombre": "Región de Antofagasta"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 4,
+        "fields": {
+            "nombre": "Región de Atacama"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 5,
+        "fields": {
+            "nombre": "Región de Coquimbo"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 6,
+        "fields": {
+            "nombre": "Región de Valparaíso"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 7,
+        "fields": {
+            "nombre": "Región Metropolitana de Santiago"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 8,
+        "fields": {
+            "nombre": "Región del Libertador General Bernardo O'Higgins"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 9,
+        "fields": {
+            "nombre": "Región del Maule"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 10,
+        "fields": {
+            "nombre": "Región de Ñuble"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 11,
+        "fields": {
+            "nombre": "Región del Biobío"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 12,
+        "fields": {
+            "nombre": "Región de La Araucanía"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 13,
+        "fields": {
+            "nombre": "Región de Los Ríos"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 14,
+        "fields": {
+            "nombre": "Región de Los Lagos"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 15,
+        "fields": {
+            "nombre": "Región de Aysén del General Carlos Ibáñez del Campo"
+        }
+    },
+    {
+        "model": "inmuebles.region",
+        "pk": 16,
+        "fields": {
+            "nombre": "Región de Magallanes y de la Antártica Chilena"
+        }
+    }
+]

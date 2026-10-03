@@ -1,0 +1,48 @@
+
+============================================================
+COMUNA: Arica
+============================================================
+
+Nombre: Casa familiar en Arica
+Descripción: Casa amplia y luminosa ideal para una familia.
+
+============================================================
+COMUNA: Concepción
+============================================================
+
+Nombre: Departamento en Concepción
+Descripción: Departamento cercano a universidades y comercio.
+
+============================================================
+COMUNA: Puerto Montt
+============================================================
+
+Nombre: Cabaña en Puerto Montt
+Descripción: Cabaña acogedora en un entorno tranquilo.
+
+Nombre: Parcela en Puerto Montt
+Descripción: Parcela amplia ideal para vivir y disfrutar de la naturaleza.
+
+============================================================
+COMUNA: Santiago
+============================================================
+
+Nombre: Casa familiar en Santiago
+Descripción: Casa con patio y espacios para toda la familia.
+
+Nombre: Departamento en Santiago
+Descripción: Departamento moderno cercano al metro.
+
+============================================================
+COMUNA: Valparaíso
+============================================================
+
+Nombre: Departamento centro de Valparaíso
+Descripción: Departamento cercano a servicios y transporte.
+
+============================================================
+COMUNA: Viña del Mar
+============================================================
+
+Nombre: Casa en Viña del Mar
+Descripción: Casa cómoda ubicada en sector residencial.

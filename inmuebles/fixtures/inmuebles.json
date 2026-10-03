@@ -1,0 +1,138 @@
+[
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 1,
+        "fields": {
+            "nombre": "Casa familiar en Arica",
+            "descripcion": "Casa amplia y luminosa ideal para una familia.",
+            "m2_construidos": 95.0,
+            "m2_totales": 180.0,
+            "estacionamientos": 2,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Av. Principal 120",
+            "comuna": 1,
+            "tipo_inmueble": 1,
+            "precio_mensual": "650000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 2,
+        "fields": {
+            "nombre": "Departamento centro de Valparaíso",
+            "descripcion": "Departamento cercano a servicios y transporte.",
+            "m2_construidos": 65.0,
+            "m2_totales": 65.0,
+            "estacionamientos": 1,
+            "habitaciones": 2,
+            "banos": 1,
+            "direccion": "Calle Independencia 450",
+            "comuna": 45,
+            "tipo_inmueble": 2,
+            "precio_mensual": "550000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 3,
+        "fields": {
+            "nombre": "Casa en Viña del Mar",
+            "descripcion": "Casa cómoda ubicada en sector residencial.",
+            "m2_construidos": 110.0,
+            "m2_totales": 200.0,
+            "estacionamientos": 2,
+            "habitaciones": 4,
+            "banos": 2,
+            "direccion": "Calle Los Aromos 321",
+            "comuna": 51,
+            "tipo_inmueble": 1,
+            "precio_mensual": "850000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 4,
+        "fields": {
+            "nombre": "Departamento en Santiago",
+            "descripcion": "Departamento moderno cercano al metro.",
+            "m2_construidos": 55.0,
+            "m2_totales": 55.0,
+            "estacionamientos": 1,
+            "habitaciones": 2,
+            "banos": 1,
+            "direccion": "Av. Portugal 850",
+            "comuna": 322,
+            "tipo_inmueble": 2,
+            "precio_mensual": "600000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 5,
+        "fields": {
+            "nombre": "Casa familiar en Santiago",
+            "descripcion": "Casa con patio y espacios para toda la familia.",
+            "m2_construidos": 120.0,
+            "m2_totales": 250.0,
+            "estacionamientos": 2,
+            "habitaciones": 4,
+            "banos": 3,
+            "direccion": "Pasaje Los Robles 145",
+            "comuna": 322,
+            "tipo_inmueble": 1,
+            "precio_mensual": "950000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 6,
+        "fields": {
+            "nombre": "Departamento en Concepción",
+            "descripcion": "Departamento cercano a universidades y comercio.",
+            "m2_construidos": 60.0,
+            "m2_totales": 60.0,
+            "estacionamientos": 1,
+            "habitaciones": 2,
+            "banos": 1,
+            "direccion": "Av. Los Carrera 620",
+            "comuna": 167,
+            "tipo_inmueble": 2,
+            "precio_mensual": "580000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 7,
+        "fields": {
+            "nombre": "Cabaña en Puerto Montt",
+            "descripcion": "Cabaña acogedora en un entorno tranquilo.",
+            "m2_construidos": 70.0,
+            "m2_totales": 150.0,
+            "estacionamientos": 2,
+            "habitaciones": 3,
+            "banos": 1,
+            "direccion": "Camino Austral 900",
+            "comuna": 244,
+            "tipo_inmueble": 3,
+            "precio_mensual": "700000.00"
+        }
+    },
+    {
+        "model": "inmuebles.inmueble",
+        "pk": 8,
+        "fields": {
+            "nombre": "Parcela en Puerto Montt",
+            "descripcion": "Parcela amplia ideal para vivir y disfrutar de la naturaleza.",
+            "m2_construidos": 100.0,
+            "m2_totales": 5000.0,
+            "estacionamientos": 4,
+            "habitaciones": 3,
+            "banos": 2,
+            "direccion": "Ruta 5 Sur km 1020",
+            "comuna": 244,
+            "tipo_inmueble": 4,
+            "precio_mensual": "900000.00"
+        }
+    }
+]
